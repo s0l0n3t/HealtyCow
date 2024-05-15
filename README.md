@@ -37,6 +37,17 @@ python server_.py
 
 ![github](/database_set.png)
 
+```sql
+
+CREATE TABLE data_table (
+    id int NOT NULL AUTO_INCREMENT,
+    device int(11),
+    status int(11),
+    temp varchar(100),
+    pulse int(11)
+);
+```
+
 ## License
 
 [Apache v2.0](https://choosealicense.com/licenses/apache-2.0/)
