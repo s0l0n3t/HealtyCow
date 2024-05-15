@@ -6,7 +6,7 @@
 #include <PulseSensorPlayground.h>
 #include <ESP8266TimerInterrupt.h>
 #include <ESP8266WiFi.h>
-#define BOT_TOKEN "7081993631:AAFrY-gCUMeXY5e5lhq5kIfXD9eBzmOKW4g"
+#define BOT_TOKEN "YOUR TOKEN"
 #define CHAT_ID "338442260"
 #define USE_ARDUINO_INTERRUPTS true
 
