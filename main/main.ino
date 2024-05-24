@@ -15,7 +15,6 @@ int HWID = 1;
 int cow_status = 0;
 const char* ssid     = "TurkTelekom_TPD7F0_2.4GHz";         // The SSID (name) of the Wi-Fi network you want to connect to
 const char* password = "chsnth4uCAu7";     // The password of the Wi-Fi network
-// token 7081993631:AAFrY-gCUMeXY5e5lhq5kIfXD9eBzmOKW4g
 int nabiz; //Pulse defined.
 const int PulseWire = A0;
 int Threshold = 550; //pulse threshold
