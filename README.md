@@ -23,7 +23,7 @@ I would also like to extend my thanks to the valuable TUBITAK family and Profess
 First of all, ***we need to run our belt.*** After that you need clone from repository.
 
 ```bash
-git commit "https://github.com/s0l0n3t/HealtyCow.git"
+git clone "https://github.com/s0l0n3t/HealtyCow.git"
 ```
 
 Throughout open "/server" folder.
